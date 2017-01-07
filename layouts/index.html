@@ -1,0 +1,37 @@
+{{ partial "head.html" . }}
+
+  <body>
+
+    {{ partial "nav.html" . }}
+    
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+	<img src="/images/logo.gif" width="167" height="200" alt="Northside Soccer League" class="pull-right" />
+        <h1>Northside Soccer</h1>
+        <p>First organized in 1982, Northside Soccer is devoted to offering our players and families a positive playing experience. At Northside Soccer, <i>"Everyone Plays!"</i></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+	  {{ range where .Data.Pages.Reverse "Section" "post" }}
+	  <div class="col-md-6">
+	  <div class="summary">
+	      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+	      {{ .Summary }}
+	  </div>
+	  {{ if .Truncated }}
+	  <div class="read-more-link">
+	      <a href="{{ .RelPermalink }}">Read More…</a>
+	  </div>
+	  {{ end }}
+	  </div>
+	  {{ end }}
+      </div>
+    </div>
+
+    {{ partial "foot.html" . }}
+  </body>
+</html>

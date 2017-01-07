@@ -1,0 +1,54 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.content {
+  padding-top: 40px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+dt {
+  margin-top: 1em;
+}
+
+.footer .container {
+  width: auto;
+  padding: 0 15px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.jumbotron {
+    padding-top: 60px;
+}
+
+.label-gold-sponsor {
+    background-color: #fc0;
+}
+.label-silver-sponsor {
+    background-color: #999;
+}
+
+.sponsor {
+  height: 320px;
+}
+
+.sponsor .panel-body {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
