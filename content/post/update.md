@@ -18,4 +18,4 @@ have two important notes for everyone:
   * Our other teams are filling quickly so we advise you to register quickly.
 
 <a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=53131">Register for Rec</a>
-<a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=53130">Regiser for Rec Plus</a>
+<a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=53130">Register for Rec Plus</a>
