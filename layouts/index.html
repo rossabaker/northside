@@ -16,8 +16,8 @@
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
-	  {{ range where .Data.Pages.Reverse "Section" "post" }}
-	  <div class="col-md-6">
+	  {{ range where .Data.Pages "Section" "post" }}
+	  <div class="col-md-4">
 	  <div class="summary">
 	      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 	      {{ .Summary }}

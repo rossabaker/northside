@@ -4,7 +4,7 @@ weight: 100
 ---
 
 Registration is now open for the 2017 season.  Registration closes on
-March 31.  Register your children at by January 31 to save
+April 3.  Register your children at by January 31 to save
 $10. <!--more--> Registering more than one child? Receive a $5
 discount for each sibling after the first!
 
@@ -17,7 +17,10 @@ child's age on January 1, 2017.
 * U6 (ages 4-5)
 * U8 (ages 6-7)
 * U10 (ages 8-9)
-* U13 (ages 10-12)
+
+We have decided not to hold a U12 Recreational League this season.  We
+have expanded our participation in the Rec Plus leagues to accommodate
+Northside soccer families.
 
 <a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=53131">Register for Rec</a>
 
