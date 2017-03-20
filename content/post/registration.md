@@ -35,7 +35,6 @@ various age groups.  Soccer age is based on the child's age on January
 * U12 girls (ages 10-11)
 * U14 boys (ages 12-13)
 * U14 girls (ages 12-13)
-* U16 coed (ages 14-15)
 * U19 coed (ages 16-18)
 
 <a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=53130">Register for Rec Plus</a>

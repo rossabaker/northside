@@ -12,10 +12,8 @@ have two important notes for everyone:
   League this season.  We have expanded our participation in the Rec
   Plus leagues to accommodate Northside soccer families.
 
-* Some of our Rec Plus teams have not filled up including:
-  * U19 Coed
-  * U12 Girls
-  * Our other teams are filling quickly so we advise you to register quickly.
+* We still have spots on the U12 Boys team.  Other teams are filling
+  quickly, so we advise you register today.
 
 <a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=53131">Register for Rec</a>
 <a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=53130">Register for Rec Plus</a>
