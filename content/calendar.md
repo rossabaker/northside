@@ -5,7 +5,7 @@ weight: 150
 ---
 
 <ul>
-  <li><a href="http://eventsgotsport.com/events/schedule.aspx?eventid=56646&FieldID=0&applicationID=3832646&action=Go">Girls U15 Travel schedule</a></li>
+  <li><a href="http://events.gotsport.com/events/schedule.aspx?eventid=56646&FieldID=0&applicationID=3832646&action=Go">Girls U15 Travel schedule</a></li>
   <li><a href="http://events.gotsport.com/events/default.aspx?EventID=59343">NCRSL calendar</a>
 </ul>
 
