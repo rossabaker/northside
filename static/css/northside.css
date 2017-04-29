@@ -11,6 +11,10 @@ body {
   padding-top: 40px;
 }
 
+.navbar-right {
+  font-size: 2em;
+}
+
 .footer {
   position: absolute;
   bottom: 0;

@@ -1,10 +1,11 @@
 ---
-title: "Weather Cancellations"
-weight: 101
+title: "Weather updates"
+weight: 1
 ---
 
-With rain in the forecast, please monitor the following for any
-cancellations due to bad weather:
+When rain is the forecast, please see
+our [Facebook](https://www.facebook.com/NorthsideSoccerLeague/) for
+cancellations of games or practices.
 
-* [Facebook](https://www.facebook.com/NorthsideSoccerLeague/)
-* [Twitter](https://twitter.com/SahmParkSoccer)
+
+
