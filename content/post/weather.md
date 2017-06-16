@@ -1,6 +1,6 @@
 ---
 title: "Weather updates"
-weight: 1
+weight: 10
 ---
 
 When rain is the forecast, please see
