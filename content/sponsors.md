@@ -53,7 +53,8 @@ menu: main
     <div class="panel panel-default sponsor">
       <div
         class="panel-heading">
-        <h3 class="panel-title"> Fairway Independent Mortgage Corporation
+        <h3 class="panel-title">Fairway Independent Mortgage Corporation
+          <span class="label label-gold-sponsor">Gold</span>
         </h3>
       </div>
       <div class="panel-body text-center">
