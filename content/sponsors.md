@@ -4,57 +4,171 @@ weight: 100
 menu: main 
 ---
 
-## Thank you to our Fall 2016 sponsors
-
-<div class="row"> <div class="col-md-4"> <div class="panel
-    panel-default sponsor"> <div class="panel-heading"> <h3
-    class="panel-title"> Dick's Sporting Goods <span class="label
-    label-gold-sponsor">Gold</span> </h3> </div> <div
-    class="panel-body text-center"> <a
-    href="http://app.dcsg.com/couponsheet/?s=319680"> <img
+## Thank you to our sponsors
+<div class="row">
+  <div class="col-md-4">
+    <div class="panel
+                panel-default sponsor">
+      <div class="panel-heading">
+        <h3
+          class="panel-title"> Dick's Sporting Goods
+          <span class="label
+                       label-gold-sponsor">Gold
+          </span>
+        </h3>
+      </div>
+      <div
+        class="panel-body text-center">
+        <a
+          href="http://app.dcsg.com/couponsheet/?s=319680">
+          <img
     src="http://dickssportinggoods.sponsorport.com/dks/images/assets/dsg_soccer_280x400.jpg
-    " width="156" height="223" /> </a> </div> </div> </div> <div
-    class="col-md-4"> <div class="panel panel-default sponsor"> <div
-    class="panel-heading"> <h3 class="panel-title"> Faegre Baker
-    Daniels <span class="label label-gold-sponsor">Gold</span> </h3>
-    </div> <div class="panel-body text-center"> <a
-    href="http://www.faegrebd.com/index.aspx"> <img border="0"
+         " width="156" height="223" />
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    class="col-md-4">
+    <div class="panel panel-default sponsor">
+      <div
+        class="panel-heading">
+        <h3 class="panel-title"> Faegre Baker
+          Daniels
+          <span class="label label-gold-sponsor">Gold
+          </span>
+        </h3>
+      </div>
+      <div class="panel-body text-center">
+        <a
+          href="http://www.faegrebd.com/index.aspx">
+          <img border="0"
     src="/images/faegre-baker-daniels.jpg" width="259" height="73" />
-    </a> </div> </div> </div> <div class="col-md-4"> <div class="panel
-    panel-default sponsor"> <div class="panel-heading"> <h3
-    class="panel-title"> ICS Inks <span class="label
-    label-gold-sponsor">Gold</span> </h3> </div> <div
-    class="panel-body text-center"> <a href="http://www.icsinks.com/">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    class="col-md-4">
+    <div class="panel panel-default sponsor">
+      <div
+        class="panel-heading">
+        <h3 class="panel-title"> Fairway Independent Mortgage Corporation
+        </h3>
+      </div>
+      <div class="panel-body text-center">
+        <a
+          href="http://www.fairwayindependentmc.com/">
+          <img border="0"
+    src="/images/fairway.jpg" width="295" height="99" />
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="panel
+                panel-default sponsor">
+      <div class="panel-heading">
+        <h3
+          class="panel-title"> ICS Inks
+          <span class="label
+                       label-gold-sponsor">Gold
+          </span>
+        </h3>
+      </div>
+      <div
+        class="panel-body text-center">
+        <a href="http://www.icsinks.com/">
     <img border="0" src="/images/icsinks.jpg" width="221" height="215"
-    /> </a> </div> </div> </div> <div class="col-md-4"> <div
-    class="panel panel-default sponsor"> <div class="panel-heading">
-    <h3 class="panel-title"> PlaqueMaker <span class="label
-    label-gold-sponsor">Gold</span> </h3> </div> <div
-    class="panel-body text-center"> <a
-    href="http://www.plaquemaker.com/"> <img border="0"
-    src="/images/PlaqueMaker.jpg" width="295" height="86" /> </a>
-    </div> </div> </div> <div class="col-md-4"> <div class="panel
-    panel-default sponsor"> <div class="panel-heading"> <h3
-    class="panel-title"> RingMaker <span class="label
-    label-gold-sponsor">Gold</span> </h3> </div> <div
-    class="panel-body text-center"> <a
-    href="http://www.ringmaker.com/"> <img border="0"
-    src="/images/ringmaker.jpg" width="273" height="53" /> </a> </div>
-    </div> </div> <div class="col-md-4"> <div class="panel
-    panel-default sponsor"> <div class="panel-heading"> <h3
-    class="panel-title"> Stace-Allen Chucks <span class="label
-    label-gold-sponsor">Gold</span> </h3> </div> <div
-    class="panel-body text-center"> <a
-    href="http://www.stace-allen.com/"> <img border="0"
+         />
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div
+      class="panel panel-default sponsor">
+      <div class="panel-heading">
+        <h3 class="panel-title"> PlaqueMaker
+          <span class="label
+                       label-gold-sponsor">Gold
+          </span>
+        </h3>
+      </div>
+      <div
+        class="panel-body text-center">
+        <a
+          href="http://www.plaquemaker.com/">
+          <img border="0"
+               src="/images/PlaqueMaker.jpg" width="295" height="86" />
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="panel
+                panel-default sponsor">
+      <div class="panel-heading">
+        <h3
+          class="panel-title"> RingMaker
+          <span class="label
+                       label-gold-sponsor">Gold
+          </span>
+        </h3>
+      </div>
+      <div
+        class="panel-body text-center">
+        <a
+          href="http://www.ringmaker.com/">
+          <img border="0"
+               src="/images/ringmaker.jpg" width="273" height="53" />
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="panel
+                panel-default sponsor">
+      <div class="panel-heading">
+        <h3
+          class="panel-title"> Stace-Allen Chucks
+          <span class="label
+                       label-gold-sponsor">Gold
+          </span>
+        </h3>
+      </div>
+      <div
+        class="panel-body text-center">
+        <a
+          href="http://www.stace-allen.com/">
+          <img border="0"
     src="/images/StaceAllenChucks.jpg" width="162" height="247" / />
-    </a> </div> </div> </div> <div class="col-md-4"> <div class="panel
-    panel-default sponsor"> <div class="panel-heading"> <h3
-    class="panel-title"> Taylor Siefker Williams Design Group <span
-    class="label label-silver-sponsor">Silver</span> </h3> </div> <div
-    class="panel-body text-center"> <a
-    href="http://www.tswdesigngroup.com/"> <img border="0"
-    src="/images/tswdg.jpg" width="300" height="177" /> </a> </div>
-    </div> </div> </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="panel
+                panel-default sponsor">
+      <div class="panel-heading">
+        <h3
+          class="panel-title"> Taylor Siefker Williams Design Group
+          <span
+            class="label label-silver-sponsor">Silver
+          </span>
+        </h3>
+      </div>
+      <div
+        class="panel-body text-center">
+        <a
+          href="http://www.tswdesigngroup.com/">
+          <img border="0"
+               src="/images/tswdg.jpg" width="300" height="177" />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Become a Northside Soccer sponsor
 
