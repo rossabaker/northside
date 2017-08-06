@@ -121,11 +121,6 @@ weight: 150
 	    <td>Game day</td>
 	</tr>
 	<tr>
-	    <td>Sep. 16</td>
-	    <td>9:00am-12pm</td>
-	    <td>Family picnic</td>
-	</tr>
-	<tr>
 	    <td>Sep. 23</td>
 	    <td>
 		9:00am (U6, U10)<br />
@@ -133,6 +128,11 @@ weight: 150
 		10:15am (U12)<br />
 	    </td>	    
 	    <td>Game day</td>
+	</tr>
+	<tr>
+	    <td>Sep. 23</td>
+	    <td>9:00am-12pm</td>
+	    <td>Family picnic</td>
 	</tr>
 	<tr>
 	    <td>Sep. 30</td>
