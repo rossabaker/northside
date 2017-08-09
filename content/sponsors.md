@@ -19,11 +19,7 @@ menu: main
       </div>
       <div
         class="panel-body text-center">
-        <a
-          href="http://app.dcsg.com/couponsheet/?s=319680">
-          <img
-    src="http://dickssportinggoods.sponsorport.com/dks/images/assets/dsg_soccer_280x400.jpg
-         " width="156" height="223" />
+        <a href='http://www.MyScoreCardAccount.com/crmcdn/getoffer.aspx? offer_entity_code=O2417RMP&token=0gyzFApTmfiVfG3zsRRyTwJY1Dv1nGTMN9rAjjvQzugV9chlzZud3v1gEWS5JbAUrSogypSrYmI0 90LBnoA2 '><img src='http://dickssportinggoods.sponsorport.com/dks/images/assets/dsg_soccer_280x400.jpg' width='156' height='223' /></a>
         </a>
       </div>
     </div>
