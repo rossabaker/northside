@@ -88,11 +88,6 @@ weight: 150
 	    <td>No games -- Labor Day</td>
 	</tr>
 	<tr>
-	    <td>Sep. 5</td>
-	    <td>5pm-8pm</td>
-	    <td>Culver's Night</td>
-	</tr>
-	<tr>
 	    <td>Sep. 9</td>
 	    <td>
 		9:00am (U6, U10)<br />
@@ -119,6 +114,11 @@ weight: 150
 		10:15am (U12)<br />
 	    </td>	    
 	    <td>Game day</td>
+	</tr>
+	<tr>
+	    <td>Sep. 19</td>
+	    <td>5pm-8pm</td>
+	    <td>Culver's Night</td>
 	</tr>
 	<tr>
 	    <td>Sep. 23</td>
