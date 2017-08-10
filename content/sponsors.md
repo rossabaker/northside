@@ -29,26 +29,6 @@ menu: main
     <div class="panel panel-default sponsor">
       <div
         class="panel-heading">
-        <h3 class="panel-title"> Faegre Baker
-          Daniels
-          <span class="label label-gold-sponsor">Gold
-          </span>
-        </h3>
-      </div>
-      <div class="panel-body text-center">
-        <a
-          href="http://www.faegrebd.com/index.aspx">
-          <img border="0"
-    src="/images/faegre-baker-daniels.jpg" width="259" height="73" />
-        </a>
-      </div>
-    </div>
-  </div>
-  <div
-    class="col-md-4">
-    <div class="panel panel-default sponsor">
-      <div
-        class="panel-heading">
         <h3 class="panel-title">Fairway Independent Mortgage Corporation
           <span class="label label-gold-sponsor">Gold</span>
         </h3>
@@ -83,26 +63,6 @@ menu: main
     </div>
   </div>
   <div class="col-md-4">
-    <div
-      class="panel panel-default sponsor">
-      <div class="panel-heading">
-        <h3 class="panel-title"> PlaqueMaker
-          <span class="label
-                       label-gold-sponsor">Gold
-          </span>
-        </h3>
-      </div>
-      <div
-        class="panel-body text-center">
-        <a
-          href="http://www.plaquemaker.com/">
-          <img border="0"
-               src="/images/PlaqueMaker.jpg" width="295" height="86" />
-        </a>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-4">
     <div class="panel
                 panel-default sponsor">
       <div class="panel-heading">
@@ -119,27 +79,6 @@ menu: main
           href="http://www.ringmaker.com/">
           <img border="0"
                src="/images/ringmaker.jpg" width="273" height="53" />
-        </a>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="panel
-                panel-default sponsor">
-      <div class="panel-heading">
-        <h3
-          class="panel-title"> Stace-Allen Chucks
-          <span class="label
-                       label-gold-sponsor">Gold
-          </span>
-        </h3>
-      </div>
-      <div
-        class="panel-body text-center">
-        <a
-          href="http://www.stace-allen.com/">
-          <img border="0"
-    src="/images/StaceAllenChucks.jpg" width="162" height="247" / />
         </a>
       </div>
     </div>
