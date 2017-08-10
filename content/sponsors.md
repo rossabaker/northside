@@ -11,7 +11,7 @@ menu: main
                 panel-default sponsor">
       <div class="panel-heading">
         <h3
-          class="panel-title"> Dick's Sporting Goods
+          class="panel-title">DICK's Sporting Goods
           <span class="label
                        label-gold-sponsor">Gold
           </span>
@@ -19,8 +19,8 @@ menu: main
       </div>
       <div
         class="panel-body text-center">
-        <a href='http://www.MyScoreCardAccount.com/crmcdn/getoffer.aspx? offer_entity_code=O2417RMP&token=0gyzFApTmfiVfG3zsRRyTwJY1Dv1nGTMN9rAjjvQzugV9chlzZud3v1gEWS5JbAUrSogypSrYmI0 90LBnoA2 '><img src='http://dickssportinggoods.sponsorport.com/dks/images/assets/dsg_soccer_280x400.jpg' width='156' height='223' /></a>
-        </a>
+        <a href='https://www.dickssportinggoods.com/'><img src='/images/dicks.png' width='295' height='156' /></a><br />
+        <a class="btn btn-primary" href="/pdf/dicks.pdf">20% off August 13!</a>
       </div>
     </div>
   </div>
