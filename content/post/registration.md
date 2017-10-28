@@ -1,17 +1,81 @@
 ---
-title: "Fall 2017 Late Registration"
+title: "Spring 2018 Registration is now open"
 weight: 1
 ---
 
-We still have openings at a few levels for the Fall 2017 season for Rec U6, U8, U10, Rec Plus U14 Boys, and Rec Plus U14 Girls. Hurry, late registration closes August 11.
+Registration is now open for the Spring 2018 season. Registration closes on
+April 4. Register your children at by January 31 to save $10. <!--more-->
+Registering more than one child? Receive a $5 discount for each sibling after
+the first!
 
-<!--more-->
+## Rec
 
-Links to register:
+Our rec league plays other teams in our league in a low-stress soccer
+environment.  All rec teams are coed.
 
-* <a href="http://www.gotsport.com/asp/application/reg/?ProgramID=61649">Rec U6 (coed)</a>
-* <a href="http://www.gotsport.com/asp/application/reg/?ProgramID=61649">Rec U8 (coed)</a>
-* <a href="http://www.gotsport.com/asp/application/reg/?ProgramID=61649">Rec U10 (coed)</a>
-* <a href="http://www.gotsport.com/asp/application/reg/?ProgramID=61648">Rec Plus U14 (girls)</a>
-* <a href="http://www.gotsport.com/asp/application/reg/?ProgramID=61648">Rec Plus U14 (boys)</a>
+<table class="table" style="width: auto !important">
+  <tr>
+    <th>Age group</th>
+    <th>Birthdates</th>
+  </th>
+  <tr>
+    <td>U6</td>
+    <td>2012-<td>
+  </tr>
+  <tr>
+    <td>U8</td>
+    <td>2010-2011</td>
+  </tr>
+  <tr>
+    <td>U10</td>
+    <td>2008-2009</td>
+  </tr>
+</table>
 
+<a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=65279">Register for Rec</a>
+
+## Rec Plus
+
+Our Rec Plus program is slightly more competitive.  Rec Plus teams
+play other local area teams.  We have boys, girls, and coed teams for
+various age groups.
+
+<table class="table" style="width: auto !important">
+  <tr>
+    <th>Age group</th>
+    <th>Type</th>
+    <th>Birthdates</th>
+  </th>
+  <tr>
+    <td>U12</td>
+    <td>Girls</td>
+    <td>2006-2007<td>
+  </tr>
+  <tr>
+    <td>U12</td>
+    <td>Boys</td>
+    <td>2006-2007<td>
+  </tr>
+  <tr>
+    <td>U14</td>
+    <td>Girls</td>
+    <td>2004-2005<td>
+  </tr>
+  <tr>
+    <td>U14</td>
+    <td>Boys</td>
+    <td>2004-2005<td>
+  </tr>
+  <tr>
+    <td>U16</td>
+    <td>Coed</td>
+    <td>2002-2003<td>
+  </tr>
+  <tr>
+    <td>U19</td>
+    <td>Coed</td>
+    <td>1999-2001<td>
+  </tr>
+</table>
+
+<a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=65280">Register for Rec Plus</a>

@@ -20,42 +20,47 @@ weight: 150
     </thead>
     <tbody>
 	<tr>
-	    <td>June 15</td>
+	    <td>Nov. 1</td>
 	    <td></td>
 	    <td>Registration opens</td>
 	</tr>
 	<tr>
-	    <td>June 30</td>
+	    <td>Nov. 30</td>
 	    <td></td>
 	    <td>Cutoff for Rec Plus lottery</td>
 	</tr>
 	<tr>
-	    <td>July 10</td>
+	    <td>Jan. 31</td>
 	    <td></td>
 	    <td>Early bird registration deadline</td>
 	</tr>
 	<tr>
-	    <td>Aug. 4</td>
+	    <td>Apr. 4</td>
 	    <td></td>
 	    <td>Registration deadline</td>
 	</tr>
 	<tr>
-	    <td>Aug. 8</td>
-	    <td>6:30pm</td>
+	    <td>Apr. 8</td>
+	    <td>TBA</td>
+	    <td>Field Day at Sahm Park</td>
+	</tr>
+	<tr>
+	    <td>Apr. 9</td>
+	    <td>6:30</td>
 	    <td>First practice (Tuesday teams)</td>
 	</tr>
 	<tr>
-	    <td>Aug. 10</9>
+	    <td>Apr. 11</9>
 	    <td>6:30pm</td>	    
 	    <td>First practice (Thursday teams)</td>
 	</tr>
 	<tr>
-	    <td>Aug. 12</td>
+	    <td>Apr. 14</td>
 	    <td>10:00am</td>
 	    <td>Coaches' clinic</td>
 	</tr>
 	<tr>
-	    <td>Aug. 19</td>
+	    <td>Apr. 21</td>
 	    <td>
 		9:00am (U6, U10)<br />
 		10:00am (U8)<br />
@@ -64,7 +69,7 @@ weight: 150
 	    <td>First game</td>
 	</tr>
 	<tr>
-	    <td>Aug. 26</td>
+	    <td>Apr. 28</td>
 	    <td>
 		9:00am (U6, U10)<br />
 		10:00am (U8)<br />
@@ -73,22 +78,7 @@ weight: 150
 	    <td>Game day</td>
 	</tr>
 	<tr>
-	    <td>Aug. 29</td>
-	    <td>6:30pm</td>
-	    <td>Game night (Tuesday teams)</td>
-	</tr>
-	<tr>
-	    <td>Aug. 31</td>
-	    <td>6:30pm</td>
-	    <td>Game night (Thursday teams)</td>
-	</tr>
-	<tr>
-	    <td>Sep. 2</td>
-	    <td></td>
-	    <td>No games -- Labor Day</td>
-	</tr>
-	<tr>
-	    <td>Sep. 9</td>
+	    <td>May 5</td>
 	    <td>
 		9:00am (U6, U10)<br />
 		10:00am (U8)<br />
@@ -97,17 +87,7 @@ weight: 150
 	    <td>Game day</td>
 	</tr>
 	<tr>
-	    <td>Sep. 12</td>
-	    <td>6:30pm</td>
-	    <td>Picture night (Tuesday teams)</td>
-	</tr>
-	<tr>
-	    <td>Sep. 14</td>
-	    <td>6:30pm</td>	    
-	    <td>Picture night (Thursday teams)</td>
-	</tr>
-	<tr>
-	    <td>Sep. 16</td>
+	    <td>May 12</td>
 	    <td>
 		9:00am (U6, U10)<br />
 		10:00am (U8)<br />
@@ -116,26 +96,12 @@ weight: 150
 	    <td>Game day</td>
 	</tr>
 	<tr>
-	    <td>Sep. 19</td>
-	    <td>5pm-8pm</td>
-	    <td>Culver's Night</td>
-	</tr>
-	<tr>
-	    <td>Sep. 23</td>
-	    <td>
-		9:00am (U6, U10)<br />
-		10:00am (U8)<br />
-		10:15am (U12)<br />
-	    </td>	    
-	    <td>Game day</td>
-	</tr>
-	<tr>
-	    <td>Sep. 23</td>
+	    <td>May 12</td>
 	    <td>9:00am-12pm</td>
 	    <td>Family picnic</td>
 	</tr>
 	<tr>
-	    <td>Sep. 30</td>
+	    <td>May 19</td>
 	    <td>
 		9:00am (U6, U10)<br />
 		10:00am (U8)<br />
@@ -144,7 +110,31 @@ weight: 150
 	    <td>Game day</td>
 	</tr>
 	<tr>
-	    <td>Oct. 7</td>
+	    <td>May 22</td>
+	    <td>6:30pm</td>
+	    <td>Game night (Tuesday teams)</td>
+	</tr>
+	<tr>
+	    <td>May 24</td>
+	    <td>6:30pm</td>
+	    <td>Game night (Thursday teams)</td>
+	</tr>
+	<tr>
+	    <td>May 26</td>
+	    <td></td>
+	    <td>No games -- Memorial Day</td>
+	</tr>
+	<tr>
+	    <td>June 2</td>
+	    <td>
+		9:00am (U6, U10)<br />
+		10:00am (U8)<br />
+		10:15am (U12)<br />
+	    </td>	    
+	    <td>Game day</td>
+	</tr>
+	<tr>
+	    <td>June 9</td>
 	    <td>
 		9:00am (U6, U10)<br />
 		10:00am (U8)<br />
