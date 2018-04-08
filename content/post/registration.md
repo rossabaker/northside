@@ -3,8 +3,8 @@ title: "Spring 2018 Registration is now open"
 weight: 1
 ---
 
-Registration is now open for the Spring 2018 season. Registration closes on
-April 4. Register your children at by January 31 to save $10. <!--more-->
+Registration is closed for the Spring 2018 season.  A very limited number of spots
+are open in select divisions.  Please e-mail [webmaster@northside.com](mailto:webmaster@northside.com) for details.<!--more-->
 Registering more than one child? Receive a $5 discount for each sibling after
 the first!
 

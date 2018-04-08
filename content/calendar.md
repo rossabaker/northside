@@ -78,6 +78,13 @@ weight: 150
 	    <td>Game day</td>
 	</tr>
 	<tr>
+	    <td>May 1</td>
+	    <td>
+		5:00-8:00pm<br />
+	    </td>	    
+	    <td>Culver's Night</td>
+	</tr>
+	<tr>
 	    <td>May 5</td>
 	    <td>
 		9:00am (U6, U10)<br />
