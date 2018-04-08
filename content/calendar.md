@@ -94,6 +94,20 @@ weight: 150
 	    <td>Game day</td>
 	</tr>
 	<tr>
+	    <td>May 8</td>
+	    <td>
+		6:30-8:00pm<br />
+	    </td>	    
+	    <td>Picture night at Tuesday practice</td>
+	</tr>
+	<tr>
+	    <td>May 10</td>
+	    <td>
+		6:30-8:00pm<br />
+	    </td>	    
+	    <td>Picture night at Thursday practice</td>
+	</tr>
+	<tr>
 	    <td>May 12</td>
 	    <td>
 		9:00am (U6, U10)<br />
