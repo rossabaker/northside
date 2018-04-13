@@ -4,7 +4,7 @@ weight: 1
 ---
 
 Registration is closed for the Spring 2018 season.  A very limited number of spots
-are open in select divisions.  Please e-mail [webmaster@northside.com](mailto:webmaster@northside.com) for details.<!--more-->
+are open in select divisions.  Please e-mail [webmaster@northsidesoccer.com](mailto:webmaster@northsidesoccer.com) for details.<!--more-->
 Registering more than one child? Receive a $5 discount for each sibling after
 the first!
 
