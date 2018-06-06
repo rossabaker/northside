@@ -1,5 +1,5 @@
 ---
-title: "Spring 2018 Registration is now open"
+title: "Fall 2018 Registration is now open"
 weight: 1
 ---
 
