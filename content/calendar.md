@@ -15,35 +15,6 @@ weight: 150
     </thead>
     <tbody>
 	<tr>
-	    <td>June 4</td>
-	    <td></td>
-	    <td>Fall 2018 Registration opens</td>
-	</tr>n
-	<tr>
-	    <td>June 9</td>
-	    <td>
-		9:00am (U6, U10)<br />
-		10:00am (U8)<br />
-		10:15am (U12)<br />
-	    </td>	    
-	    <td>Final Spring game &amp; trophy presentation</td></td>
-	</tr>
-	<tr>
-	    <td>June 30</td>
-	    <td></td>
-	    <td>Cutoff for Rec Plus lottery</td>
-	</tr>
-	<tr>
-	    <td>June 30</td>
-	    <td></td>
-	    <td>Early bird registration deadline</td>
-	</tr>
-	<tr>
-	    <td>July 31</td>
-	    <td></td>
-	    <td>Registration deadline</td>
-	</tr>
-	<tr>
 	    <td>Aug. 5</td>
 	    <td>TBA</td>
 	    <td>Field Day at Sahm Park</td>

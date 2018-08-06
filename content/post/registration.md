@@ -3,10 +3,10 @@ title: "Fall 2018 Registration is now open"
 weight: 1
 ---
 
-Registration is open for the Fall 2018 season.  Register before June 30 to receive the early bird discount of $10!
-<!--more-->
-Registering more than one child? Receive a $5 discount for each sibling after
-the first!
+Registration is open for the Fall 2018 season.  The season is
+starting, but we still have a few spots left! <!--more--> Registering
+more than one child?  Receive a $5 discount for each sibling after the
+first!
 
 ## Rec
 
@@ -49,7 +49,7 @@ various age groups.
   <tr>
     <td>U12</td>
     <td>Girls</td>
-    <td>2007-2008<td>
+    <td>full<td>
   </tr>
   <tr>
     <td>U12</td>
