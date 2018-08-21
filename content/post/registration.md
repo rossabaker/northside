@@ -1,12 +1,13 @@
 ---
-title: "Fall 2018 Registration is now open"
+title: "Fall 2018 Registration is now closed"
 weight: 1
 ---
 
-Registration is open for the Fall 2018 season.  The season is
-starting, but we still have a few spots left! <!--more--> Registering
-more than one child?  Receive a $5 discount for each sibling after the
-first!
+Registration is now closed for the Fall 2018 season, though a couple
+spots are available at select levels.<!--more-->
+
+Registering more than one child?  Receive a $5 discount for each
+sibling after the first!
 
 ## Rec
 
@@ -17,18 +18,22 @@ environment.  All rec teams are coed.
   <tr>
     <th>Age group</th>
     <th>Birthdates</th>
+    <th>Status</th>
   </th>
   <tr>
     <td>U6</td>
-    <td>2013-<td>
+    <td>2013-</td>
+    <td><a href="mailto:webmaster@northsidesoccer.com">Email us</a><td>
   </tr>
   <tr>
     <td>U8</td>
     <td>2011-2012</td>
+    <td>Full</td>
   </tr>
   <tr>
     <td>U10</td>
     <td>2009-2010</td>
+    <td><a href="mailto:webmaster@northsidesoccer.com">Email us</a><td>
   </tr>
 </table>
 
@@ -45,36 +50,43 @@ various age groups.
     <th>Age group</th>
     <th>Type</th>
     <th>Birthdates</th>
+    <th>Status</th>
   </th>
   <tr>
     <td>U12</td>
     <td>Girls</td>
-    <td>full<td>
+    <td>2007-2008</td>
+    <td>full</td>
   </tr>
   <tr>
     <td>U12</td>
     <td>Boys</td>
-    <td>2007-2008<td>
+    <td>2007-2008</td>
+    <td>full</td>
   </tr>
   <tr>
     <td>U14</td>
     <td>Girls</td>
-    <td>2005-2006<td>
+    <td>2005-2006</td>
+    <td>full</td>
   </tr>
   <tr>
     <td>U14</td>
     <td>Boys</td>
-    <td>2005-2006<td>
+    <td>2005-2006</td>
+    <td>full</td>
   </tr>
   <tr>
     <td>U16</td>
     <td>Coed</td>
-    <td>2003-2004<td>
+    <td>2003-2004</td>
+    <td>full</td>
   </tr>
   <tr>
     <td>U19</td>
     <td>Coed</td>
-    <td>2000-2002<td>
+    <td>2000-2002</td>
+    <td>full</td>
   </tr>
 </table>
 
