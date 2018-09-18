@@ -1,6 +1,6 @@
 ---
 title: "Fall 2018 Registration is now closed"
-weight: 1
+weight: 30
 ---
 
 Registration is now closed for the Fall 2018 season, though a couple

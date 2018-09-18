@@ -121,6 +121,16 @@ weight: 150
 	    <td>Family picnic</td>
 	</tr>
 	<tr>
+	    <td>Sept. 25d>
+	    <td>6:30pm</td>
+	    <td>Makeup game night (Tuesday teams)</td>
+	</tr>
+	<tr>
+	    <td>Sept. 27</td>
+	    <td>6:30pm</td>
+	    <td>Makeup game night (Thursday teams)</td>
+	</tr>
+	<tr>
 	    <td>Sept. 29</td>
 	    <td>
 		9:00am (U6, U10)<br />
