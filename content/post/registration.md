@@ -1,13 +1,12 @@
 ---
-title: "Fall 2018 Registration is now closed"
+title: "Spring 2019 Registration is now open"
 weight: 30
 ---
 
-Registration is now closed for the Fall 2018 season, though a couple
-spots are available at select levels.<!--more-->
-
+Registration is now open for the Spring 2019 season.  Sign up by
+January 30th to take advantage of the $10 Early Bird Discount.
 Registering more than one child?  Receive a $5 discount for each
-sibling after the first!
+sibling after the first!<!--more-->
 
 ## Rec
 
@@ -37,7 +36,7 @@ environment.  All rec teams are coed.
   </tr>
 </table>
 
-<a class="btn btn-primary" href="https://www.gotsport.com/asp/application/reg/Default.asp?ProgramID=72113&Type=PLAYER">Register for Rec</a>
+<a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=75168&Type=PLAYER">Register for Rec</a>
 
 ## Rec Plus
 
@@ -90,4 +89,4 @@ various age groups.
   </tr>
 </table>
 
-<a class="btn btn-primary" href="https://www.gotsport.com/asp/application/reg/Default.asp?ProgramID=72114&Type=PLAYER">Register for Rec Plus</a>
+<a class="btn btn-primary" href="http://www.gotsport.com/asp/application/reg/?ProgramID=75167&Type=PLAYER">Register for Rec Plus</a>
