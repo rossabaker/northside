@@ -22,17 +22,17 @@ environment.  All rec teams are coed.
   <tr>
     <td>U6</td>
     <td>2013-</td>
-    <td><a href="mailto:webmaster@northsidesoccer.com">Email us</a><td>
+    <td>open</td>
   </tr>
   <tr>
     <td>U8</td>
     <td>2011-2012</td>
-    <td>Full</td>
+    <td>open</td>
   </tr>
   <tr>
     <td>U10</td>
     <td>2009-2010</td>
-    <td><a href="mailto:webmaster@northsidesoccer.com">Email us</a><td>
+    <td>open<td>
   </tr>
 </table>
 
@@ -55,37 +55,37 @@ various age groups.
     <td>U12</td>
     <td>Girls</td>
     <td>2007-2008</td>
-    <td>full</td>
+    <td>open</td>
   </tr>
   <tr>
     <td>U12</td>
     <td>Boys</td>
     <td>2007-2008</td>
-    <td>full</td>
+    <td>open</td>
   </tr>
   <tr>
     <td>U14</td>
     <td>Girls</td>
     <td>2005-2006</td>
-    <td>full</td>
+    <td>open</td>
   </tr>
   <tr>
     <td>U14</td>
     <td>Boys</td>
     <td>2005-2006</td>
-    <td>full</td>
+    <td>open</td>
   </tr>
   <tr>
     <td>U16</td>
     <td>Coed</td>
     <td>2003-2004</td>
-    <td>full</td>
+    <td>open</td>
   </tr>
   <tr>
     <td>U19</td>
     <td>Coed</td>
     <td>2000-2002</td>
-    <td>full</td>
+    <td>open</td>
   </tr>
 </table>
 
