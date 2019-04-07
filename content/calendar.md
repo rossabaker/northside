@@ -54,6 +54,13 @@ weight: 150
       <td>First game</td>
     </tr>
     <tr>
+      <td>Apr. 25</td>
+      <td>
+        6:30pm
+      </td>
+      <td>Picture night (Thursday practice)</td>
+    </tr>
+    <tr>
       <td>Apr. 27</td>
       <td>
         9:00am (U6, U10)<br />
@@ -64,8 +71,8 @@ weight: 150
     </tr>
     <tr>
       <td>Apr. 30</td>
-      <td>5:00-8:00pm</td>
-      <td>Culver's Night</td>
+      <td>6:30pm</td>
+      <td>Picture night (Tuesday practice)</td>
     </tr>
     <tr>
       <td>May 4</td>
@@ -75,16 +82,6 @@ weight: 150
         10:15am (U12)<br />
       </td>
       <td>Game day</td>
-    </tr>
-    <tr>
-      <td>May 7</td>
-      <td>6:30-8:00pm</td>
-      <td>Picture night at Tuesday practice</td>
-    </tr>
-    <tr>
-      <td>May 9</td>
-      <td>6:30-8:00pm</td>
-      <td>Picture night at Thursday practice</td>
     </tr>
     <tr>
       <td>May 11</td>
