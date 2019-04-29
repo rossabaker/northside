@@ -14,7 +14,9 @@ hair, and would love for you to wear Northside gear!  Please help us
 make this fundraiser amazing!
 
 Date: 5/7/19 (Tuesday)
+
 Time: 5pm-8pm
+
 Location: 96th Street Culver's
 
 https://m.signupgenius.com/#!/showSignUp/10c0549adac28abf85-northside2
