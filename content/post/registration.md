@@ -8,6 +8,10 @@ June 30th to take advantage of the $10 Early Bird Discount.
 Registering more than one child?  Receive a $5 discount for each
 sibling after the first!<!--more-->
 
+Northside is a volunteer-run club.  Families who volunteer to coach,
+help with the family picnic, concessions, the fields, or Culver's
+night, can claim a $10 credit at registration.
+
 ## Rec
 
 Our rec league plays other teams in our league in a low-stress soccer
