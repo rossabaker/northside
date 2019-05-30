@@ -3,7 +3,7 @@ title: "Fall 2019 Registration is now open"
 weight: 30
 ---
 
-Registration is now open for the Spring 2019 season.  Sign up by
+Registration is now open for the Fall 2019 season.  Sign up by
 June 30th to take advantage of the $10 Early Bird Discount.
 Registering more than one child?  Receive a $5 discount for each
 sibling after the first!<!--more-->
