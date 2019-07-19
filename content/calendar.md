@@ -49,7 +49,6 @@ weight: 150
       <td>
         9:00am (U6, U10)<br />
         10:00am (U8)<br />
-        10:15am (U12)<br />
       </td>
       <td>First game</td>
     </tr>
@@ -58,7 +57,6 @@ weight: 150
       <td>
         9:00am (U6, U10)<br />
         10:00am (U8)<br />
-        10:15am (U12)<br />
       </td>
       <td>Game day</td>
     </tr>
@@ -101,7 +99,6 @@ weight: 150
       <td>
         9:00am (U6, U10)<br />
         10:00am (U8)<br />
-        10:15am (U12)<br />
       </td>
       <td>Game day</td>
     </tr>
@@ -110,7 +107,6 @@ weight: 150
       <td>
         9:00am (U6, U10)<br />
         10:00am (U8)<br />
-        10:15am (U12)<br />
       </td>
       <td>Game day</td>
     </tr>
@@ -124,7 +120,6 @@ weight: 150
       <td>
         9:00am (U6, U10)<br />
         10:00am (U8)<br />
-        10:15am (U12)<br />
       </td>
       <td>Game day</td>
     </tr>
@@ -133,7 +128,6 @@ weight: 150
       <td>
         9:00am (U6, U10)<br />
         10:00am (U8)<br />
-        10:15am (U12)<br />
       </td>
       <td>Final game &amp; trophy presentation</td>
     </tr>
