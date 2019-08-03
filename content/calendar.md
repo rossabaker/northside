@@ -25,11 +25,6 @@ weight: 150
       <td>Registration Deadline</td>
     </tr>
     <tr>
-      <td>Aug 4</td>
-      <td>TBA</td>
-      <td>Field Day at Sahm Park</td>
-    </tr>
-    <tr>
       <td>Aug 6</td>
       <td>6:30</td>
       <td>First practice (Tuesday teams)</td>
