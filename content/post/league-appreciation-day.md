@@ -7,7 +7,7 @@ Northside Families,
 
 This Saturday, August 3, 2019 is our League Appreciation Day at Dick's Sporting Goods. 
 
-Dick's is generous enough to offer our league members 20% off throughout the store on this day only. Please join us at the Dick's Sporting Good's Store at the Castleton Square Mall (6020 E. 82nd Street, Indianapolis, IN 46250) . A Northside Soccer representative will be there from 12:00 to 2:00 PM. 
+Dick's is generous enough to offer our league members 20% off throughout the store on this day only. Please join us at the Dick's Sporting Good's Store at the Castleton Square Mall (6020 E. 82nd Street, Indianapolis, IN 46250) . A Northside Soccer representative will be there from 12:00 to 2:00 PM.<!--more-->
 
 While shopping please keep in mind the below equipment that is needed for the season:
 - Soccer cleats 
