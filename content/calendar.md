@@ -76,6 +76,14 @@ weight: 150
 	  <td>Culver's Night</td>
     </tr>
     <tr>
+      <td>Sep 7</td>
+      <td>
+        9:00am (U6, U10)<br />
+        10:00am (U8)<br />
+      </td>
+      <td>Game day</td>
+    </tr>
+    <tr>
       <td>Sep 10</td>
       <td>
         6:30pm
