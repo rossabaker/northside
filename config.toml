@@ -1,4 +1,4 @@
-baseurl = "https://jolly-kilby-70e4dd.netlify.com"
+baseurl = "https://jolly-kilby-70e4dd.netlify.com/"
 title = "Northside Soccer"
 theme = "hugo-universal-theme"
 themesDir = "themes"
