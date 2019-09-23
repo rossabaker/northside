@@ -1,43 +1,61 @@
 +++
 title = "FAQ"
-description = "Frequently asked questions"
-keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Thank you for your interest in Northside Soccer. Here is some
+information regarding our league:
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+Who is Northside Soccer?
+: We are a small recreational soccer league run completely by
+  volunteers. Our motto is "everybody plays" and we focus on ensuring
+  all children and families have a good experience.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Where are practices and games held?
+: All games and practices are held at [Sahm Park].
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+When are practices?
+: When you sign up, you choose if you want to practice Tuesday or
+  Thursday night.
 
-## 2. WHAT ARE THE POSTAL RATES?
+When are games?
+: All Rec (our house league) games are on Saturdays. There are 8 games
+  in all.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+  * The U6 league plays at 9:00am.
+  * The U8 league plays at 10:00am.
+  * The U10 league plays at 9:00am.
 
-## 3. DO YOU SEND OVERSEAS?
+What is the difference between Rec, Rec Plus and Travel Soccer?
+: Recreational (Rec) Soccer is for beginners and children/families that
+  are looking for a good, low-stress soccer environment. Rec teams only
+  play other teams in our league. It is good for children who want to
+  play soccer as well as other sports/activities. 
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+  Rec Plus soccer is for children/families looking for slightly more
+  competitive soccer but not wanting to make the commitment required for
+  travel soccer. Rec Plus teams play other local area teams. There are no
+  try-outs allowed. 
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+  Travel soccer is competitive soccer, often significantly more
+  expensive for children/families that are looking to make a significant
+  soccer commitment. 
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+  Northside Soccer offers only Rec and Rec Plus teams.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+What are the registration fees?
+: The Rec registration fee is $100.  The Rec Plus Fee is $110.
 
-## 5. ANOTHER IMPORTANT QUESTION
+  There is a $10 early bird discount if you register before January 31,
+  and a $5 sibling discount is provided for families with more than one
+  child participating.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+What is included in that fee?
+: The registration fee covers jersey, shorts, socks, team picture, a
+  trophy and free admission in a league-wide picnic (with bounce houses,
+  face painting, etc.).
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+When does the season start?
+: Please see the [calendar].
 
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+[Sahm Park]: /find-us/
+[calendar]: /calendar/
