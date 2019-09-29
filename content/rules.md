@@ -1,13 +1,6 @@
 +++
-title = "Info for Coaches"
+title = "Rules"
 +++
-
-## Helpful links
-
-* [Coaching Soccer 101](http://www.coachingsoccer101.com/)
-* [Playmaker diagram for coaches](http://www.coachingsoccer101.com/playmaker1.htm)
-
-## Rules
 
 We follow the Indiana Youth Soccer Recreation Small-Sided Games Format.
 

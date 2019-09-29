@@ -42,9 +42,9 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
-    identifier = "coaches"
-    name = "Coaches"
-    url  = "/coaches/"
+    identifier = "rules"
+    name = "Rules"
+    url  = "/rules/"
     weight = 5
 
 [[menu.main]]
