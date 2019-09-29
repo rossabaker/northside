@@ -121,6 +121,12 @@ paginate = 10
     address = """<p><strong>Northside Soccer League</strong>
         <br>PO Box 502262
         <br>Indianapolis, IN 46250
+        <br>
+        <span class="social">
+          <a title="Instagram" href="https://www.instagram.com/northsidesoccerindy"><i class='fa fa-instagram'></i></a>
+          <a title="Facebook" href="https://facebook.com/NorthsideSoccerLeague"><i class='fa fa-facebook'></i></a>
+          <a title="Twitter" href="https://twitter.com/NSsoccerindy"><i class='fa fa-twitter'></i></a>
+        </span>
       </p>
       """
     latitude = "39.913825"
