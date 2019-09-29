@@ -52,7 +52,8 @@ What are the registration fees?
 What is included in that fee?
 : The registration fee covers jersey, shorts, socks, team picture, a
   trophy and free admission in a league-wide picnic (with bounce houses,
-  face painting, etc.).
+  face painting, etc.).  The Rec fee also includes two tickets for snacks
+  at the concession stand after each game.
 
 When does the season start?
 : Please see the [calendar].
