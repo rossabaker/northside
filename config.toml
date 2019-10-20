@@ -167,12 +167,14 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = false
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    enable = true
+    icon = "fa fa-user-plus"
+    title = "Spring 2020 registration is open!"
+    subtitle = "Register before January 30 for a $10 early bird discount.  The season begins the week of April 5."
+    link_text = "Rec"
+    link_url = "https://www.gotsport.com/asp/application/reg/?ProgramID=85365"
+    link2_text = "Rec Plus"
+    link2_url = "https://www.gotsport.com/asp/application/reg/?ProgramID=85364"
 
 [params.clients]
     enable = true
