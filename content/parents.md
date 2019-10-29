@@ -30,7 +30,8 @@ referees. Bad calls are a part of the game, but these were nothing
 compared to the embarrassing spectacles that occur when well meaning
 parents forget this is a recreational league.  Most of our referees
 will also be kids.  I'm sure no parent would want their youngster
-verbally attacked.  Please keep that in mind when the ref misses one.
+verbally attacked.  Please keep that in mind when the ref misses a
+call.
  
 ## Volunteer Duty
 
@@ -39,6 +40,8 @@ league alive.  Consider helping out on game days with field setup or
 volunteer for a shift at the concession stand.  We also need Spanish
 and ASL interpreters, game day hosts and people to help with the
 picnic committee or being a face painter.  We are always looking for
-coaches and board members, so please contact us if you can help in any
+coaches and board members, so please [contact us] if you can help in any
 way.  If you have a special talent that you think might benefit the
-league please let us know.
+league, please let us know.
+
+[contact us]: /contact/

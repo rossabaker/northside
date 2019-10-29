@@ -43,7 +43,7 @@ What is the difference between Rec, Rec Plus and Travel Soccer?
   Northside Soccer offers only Rec and Rec Plus teams.
 
 What are the registration fees?
-: The Rec registration fee is $100.  The Rec Plus Fee is $110.
+: The Rec registration fee is $110.  The Rec Plus Fee is $120.
 
   There is a $10 early bird discount if you register before January 31,
   and a $5 sibling discount is provided for families with more than one
@@ -58,5 +58,18 @@ What is included in that fee?
 When does the season start?
 : Please see the [calendar].
 
+When are practices?
+: Rec teams practice on Tuesdays or Thursdays.  Select your preference
+  during registration.  Most teams practice at 6:30pm for 45 minutes
+  to an hour, at the discretion of the coaches.
+  
+  Rec Plus teams practice both Tuesdays and Thursdays, typically for
+  around 90 minutes.
+
+How can I get involved?
+: We are a volunteer-led organization.  Please see the [volunteer duty]
+  section on the parents' page.
+
 [Sahm Park]: /find-us/
 [calendar]: /calendar/
+[volunteer duty]: /parents/#volunteer-duty
