@@ -49,6 +49,10 @@ What are the registration fees?
   and a $5 sibling discount is provided for families with more than one
   child participating.
 
+  We require a credit card payment during registration.  We may charge
+  a $15 fee in case of a refund.  For any questions or issues, please
+  contact our finance team at treasurer@northsidesoccer.com.
+
 What is included in that fee?
 : The registration fee covers jersey, shorts, socks, team picture, a
   trophy and free admission in a league-wide picnic (with bounce houses,
