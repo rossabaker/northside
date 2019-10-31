@@ -44,4 +44,10 @@ coaches and board members, so please [contact us] if you can help in any
 way.  If you have a special talent that you think might benefit the
 league, please let us know.
 
+## Pictures
+
+Per the registratoin agreement, pictures may be taken of child and/or
+parent participation, and such pictures may be used by the league for
+marketing and promotion of the league.
+
 [contact us]: /contact/
