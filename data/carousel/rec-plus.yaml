@@ -6,6 +6,6 @@ description: >
   <p>Co-ed teams for U16 and U19</p>
   <p>Weekend games against local clubs</p>
   <p>Two practices per week</p>
-  <p><a href="https://www.gotsport.com/asp/application/reg/?ProgramID=85365" class="btn btn-template-transparent-black btn-lg">Register now!</a></p>
+  <p><a href="/registration/" class="btn btn-template-transparent-black btn-lg">Register now!</a></p>p
 
 image: "img/carousel/rec-plus-hands.jpg"

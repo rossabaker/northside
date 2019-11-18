@@ -1,4 +1,4 @@
-baseurl = "https://jolly-kilby-70e4dd.netlify.com/"
+baseurl = "http://northsidesoccer.com/"
 title = "Northside Soccer"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -171,10 +171,8 @@ paginate = 10
     icon = "fa fa-user-plus"
     title = "Spring 2020 registration is open!"
     subtitle = "Register before January 30 for a $10 early bird discount.  The season begins the week of April 5."
-    link_text = "Rec"
-    link_url = "https://www.gotsport.com/asp/application/reg/?ProgramID=85365"
-    link2_text = "Rec Plus"
-    link2_url = "https://www.gotsport.com/asp/application/reg/?ProgramID=85364"
+    link_text = "Register now!"
+    link_url = "/registration/"
 
 [params.clients]
     enable = true
