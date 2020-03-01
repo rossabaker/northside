@@ -170,7 +170,7 @@ paginate = 10
     enable = true
     icon = "fa fa-user-plus"
     title = "Spring 2020 registration is open!"
-    subtitle = "Register before January 30 for a $10 early bird discount.  The season begins the week of April 5."
+    subtitle = "Just $110 for Rec and $120 for Rec Plus. The season begins the week of April 5."
     link_text = "Register now!"
     link_url = "/registration/"
 
