@@ -27,12 +27,12 @@ title = "Spring 2020 Calendar"
       <td>Field Day at Sahm</td>
     </tr>
     <tr>
-      <td>Apr 8</td>
+      <td>Apr 7</td>
       <td>6:30pm</td>
       <td>First practice (Tuesday teams)</td>
     </tr>
     <tr>
-      <td>Apr 10</td>
+      <td>Apr 9</td>
       <td>6:30pm</td>
       <td>First practice (Thursday teams)</td>
     </tr>
