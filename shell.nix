@@ -3,20 +3,14 @@ let
   # See https://nixos.wiki/wiki/FAQ/Pinning_Nixpkgs for more information on pinning
   nixpkgs = builtins.fetchTarball {
     # Commit hash for nixos-unstable as of 2019-10-20
-    url = https://github.com/NixOS/nixpkgs/archive/430e5ce04c7943323e573c40d15c0e7e109cc72a.tar.gz;
+    url =
+      "https://github.com/NixOS/nixpkgs/archive/63ed2bf3c3c39b90af4398a1f047de3bcc27e176.tar.gz";
     # Hash obtained using `nix-prefetch-url --unpack <url>`
-    sha256 = "1c0n74xf7w78650l65r4p85vr59apg5zylb53s2q8hhbhv7nk0p7";
+    sha256 = "1yrk29cxb8yv0ziin4bw1rwdjmmm5i2m8wdc13xqhfhc79d4hnv6";
   };
 
-in
-
-{ pkgs ? import nixpkgs {} }:
+in { pkgs ? import nixpkgs { } }:
 
 with pkgs;
 
-mkShell {
-  buildInputs = [
-    hugo
-    ncftp
-  ];
-}
+mkShell { buildInputs = [ hugo ncftp ]; }
