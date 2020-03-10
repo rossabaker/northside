@@ -180,7 +180,7 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Our Sponsors"
-    subtitle = ""
+    subtitle = """Learn more about <a href='/sponsors/'>becoming a sponsor</a>"""
 
 [params.recent_posts]
     enable = false
