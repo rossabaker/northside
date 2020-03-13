@@ -186,3 +186,6 @@ paginate = 10
     enable = true
     title = "Upcoming events"
     subtitle = ""
+
+[markup.goldmark.renderer]
+    unsafe = true
