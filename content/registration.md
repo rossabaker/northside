@@ -4,7 +4,11 @@ title = "Registration"
 
 ## Spring 2020 Registration is open!
 
-Registration is open for the Spring 2020 season through March 31.
+<b>
+The season is delayed for public health reasons. Please see <a href="/blog/2020/03/23/covid-19/">the update from the board</a>.
+</b>
+
+Registration is open for the Spring 2020 season.
 Register by January 30 to save an extra $10 with our early bird
 discount.
 
