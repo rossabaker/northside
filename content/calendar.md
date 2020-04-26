@@ -3,7 +3,7 @@ title = "Spring 2020 Calendar"
 +++
 
 <b>
-The spring season is delayed for public health reasons. Please see <a href="/blog/2020/03/31/covid-19/">the update from the board</a>.
+The spring season is canceled for public health reasons. Please see <a href="/blog/2020/03/31/covid-19/">the update from the board</a>.
 </b>
 
 <table id="calendar" class="table">
