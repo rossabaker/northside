@@ -5,5 +5,5 @@ description: >
   <p>Co-ed teams for U6, U8, and U10</p>
   <p>One practice per week at Sahm Park</p>
   <p>One game per week within our league</p>
-  <p><a href="/registration/" class="btn btn-template-transparent-black btn-lg">Register now!</a></p>
+  <!--<p><a href="/registration/" class="btn btn-template-transparent-black btn-lg">Register now!</a></p>-->
 image: "img/carousel/rec-game.jpg"
