@@ -167,7 +167,7 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-user-plus"
     title = "Spring 2020 registration is open!"
     subtitle = "Just $110 for Rec and $120 for Rec Plus. The season begins the week of April 5."
