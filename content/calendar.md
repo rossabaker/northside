@@ -22,7 +22,7 @@ title = "Spring 2021 Calendar"
       <td>Registration Deadline</td>
     </tr>
     <tr>
-      <td>Apr 4</td>
+      <td>Apr 3</td>
       <td>TBA</td>
       <td>Field Day at Sahm</td>
     </tr>
