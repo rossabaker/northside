@@ -21,8 +21,8 @@ When are games?
 : All Rec (our house league) games are on Saturdays. There are 8 games
   in all.
 
-  * The U6 league plays at 9:00am.
-  * The U8 league plays at 10:00am.
+  * The U6 league plays at 9:15am.
+  * The U8 league plays at 10:15am.
   * The U10 league plays at 9:00am.
 
 What is the difference between Rec, Rec Plus and Travel Soccer?
