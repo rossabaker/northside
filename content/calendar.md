@@ -44,8 +44,8 @@ title = "Spring 2021 Calendar"
     <tr>
       <td>Apr 17</td>
       <td>
-        9:00am (U10)<br />
-        9:15am (U6)<br />
+        9:00am (U6)<br />
+        9:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>First game</td>
@@ -53,8 +53,8 @@ title = "Spring 2021 Calendar"
     <tr>
       <td>Apr 24</td>
       <td>
-        9:00am (U10)<br />
-        9:15am (U6)<br />
+        9:00am (U6)<br />
+        9:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -76,8 +76,8 @@ title = "Spring 2021 Calendar"
     <tr>
       <td>May 1</td>
       <td>
-        9:00am (U10)<br />
-        9:15am (U6)<br />
+        9:00am (U6)<br />
+        9:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -90,8 +90,8 @@ title = "Spring 2021 Calendar"
     <tr>
       <td>May 8</td>
       <td>
-        9:00am (U10)<br />
-        9:15am (U6)<br />
+        9:00am (U6)<br />
+        9:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -104,8 +104,8 @@ title = "Spring 2021 Calendar"
     <tr>
       <td>May 15</td>
       <td>
-        9:00am (U10)<br />
-        9:15am (U6)<br />
+        9:00am (U6)<br />
+        9:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -113,8 +113,8 @@ title = "Spring 2021 Calendar"
     <tr>
       <td>May 22</td>
       <td>
-        9:00am (U10)<br />
-        9:15 (U6)<br />
+        9:00am (U6)<br />
+        9:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -137,8 +137,8 @@ title = "Spring 2021 Calendar"
     <tr>
       <td>Jun 5</td>
       <td>
-        9:00am (U10)<br />
-        9:15 (U6)<br />
+        9:00am (U6)<br />
+        9:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Final game &amp; trophy presentation</td>

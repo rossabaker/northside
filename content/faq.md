@@ -18,12 +18,20 @@ When are practices?
   Thursday night.
 
 When are games?
-: All Rec (our house league) games are on Saturdays. There are 8 games
-  in all.
+: Most Rec (our house league) games are on Saturdays. We typically
+  play seven Saturdays through the season, skipping Labor Day or
+  Memorial Day weekends.
 
-  * The U6 league plays at 9:15am.
+  * The U6 league plays at 9:00am.
   * The U8 league plays at 10:15am.
-  * The U10 league plays at 9:00am.
+  * The U10 league plays at 9:15am.
+
+  To fit in an eighth game, we typically play once on a Tuesday or
+  Thursday in lieu of the regular Rec practice.
+
+  Rec Plus games are typically Saturdays and Sundays.  Scheduling is
+  done in concert with other local clubs.  Some weekends are off, and
+  some weekends may see a game both days.
 
 What is the difference between Rec, Rec Plus and Travel Soccer?
 : Recreational (Rec) Soccer is for beginners and children/families that
