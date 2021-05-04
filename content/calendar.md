@@ -85,7 +85,7 @@ title = "Spring 2021 Calendar"
     <tr>
       <td>May 4</td>
       <td>5pm-8pm</td>
-	  <td>Culver's Night</td>
+	  <td>Chipotle Night</td>
     </tr>
     <tr>
       <td>May 8</td>
