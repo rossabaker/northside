@@ -98,11 +98,6 @@ title = "Spring 2021 Calendar"
     </tr>
     <tr>
       <td>May 15</td>
-      <td>9:00am-12pm</td>
-      <td>League Picnic</td>
-    </tr>
-    <tr>
-      <td>May 15</td>
       <td>
         9:00am (U6)<br />
         9:15am (U10)<br />
