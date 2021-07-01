@@ -5,4 +5,5 @@ description: >
   <p>Held one game morning every season</p>
   <p>Fun for the entire family</p>
   <p>Free admission!</p>
+  <p><a href="/registration/" class="btn btn-template-transparent-black btn-lg">Register now!</a></p>
 image: "img/carousel/picnic.jpg"
